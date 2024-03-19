@@ -1,5 +1,5 @@
 ## Nutrient Determination and Recommended Meals
-This project develops an application that uses the YOLOv8 object detection model and Roboflow APIs[2] to detect food in images and provide a recipe recommendation. The project provides solutions to real-world problems such as food recognition and recipe recommendation using machine learning and artificial intelligence techniques.
+This project develops an application that uses the YOLOv8 object detection model and Roboflow APIs[2] to detect food in images and provide a recipe recommendation. The project provides solutions to real-world problems such as food recognition and recipe recommendation using machine learning and artificial intelligence techniques. 
 
 The aim of my project is to identify foods using visual object detection techniques and then suggest recipes that are suitable for the identified foods. In this way, users can recognise the foods in an image they have taken or found and find recipes suitable for those foods. For example, when a user uploads an image containing a cucumber, tomato and onion, the programme will recognise these foods and suggest recipes that can be made with these foods, such as salads. This project aims to demonstrate how visual object detection and artificial intelligence technologies can be used in a practical use case scenario.
  
